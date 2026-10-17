@@ -4,6 +4,7 @@
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FData-Analysis-of-Diabetes-Prevalence-in-New-Zealand-using-VDR"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FData-Analysis-of-Diabetes-Prevalence-in-New-Zealand-using-VDR&label=Visitors&labelColor=%2300ff00&countColor=%23000000&style=plastic&labelStyle=none" /></a>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/reshmaharidhas/Data-Analysis-of-Diabetes-Prevalence-in-New-Zealand-using-VDR?labelColor=%23000000">
   <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/reshmaharidhas/Data-Analysis-of-Diabetes-Prevalence-in-New-Zealand-using-VDR?labelColor=%23000000">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/reshmaharidhas/Data-Analysis-of-Diabetes-Prevalence-in-New-Zealand-using-VDR">
 
 </p>
 
@@ -33,6 +34,11 @@ https://www.kaggle.com/code/reshmaharidhas/diabetes-prevalence-in-new-zealand-ed
 - Seaborn
 - Plotly
 - Tableau
+
+## 📊Visualizations
+![](plots/proportion_of_people_with_diabetes_in_nz_by_districts_and_ethnicity.png)
+![](plots/number_of_people_with_diabetes_in_nz_in_all_ages_by_district.png)
+![](plots/correlation_heatmap.png)
 
 ## 🗂️Dataset
 - Source: Kaggle
