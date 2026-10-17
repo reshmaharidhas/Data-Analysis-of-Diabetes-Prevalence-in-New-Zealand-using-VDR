@@ -1,0 +1,22 @@
+,district,maori,pacific_people,indian,european_or_others,vdr_total_aged_15_to_74,vdr_total_all_ages,vdr_pct_aged_15_to_74,island,most_dominant_eth,most_dominant_eth_count,least_dominant_eth,least_dominant_eth_count
+0,Auckland,2838,7921,5483,14879,31121,39365,79.1,North,European/others,14879,Maori,2838
+1,Bay of Plenty,4161,434,743,6228,11566,16076,71.9,North,European/others,6228,Pacific,434
+2,Canterbury,2831,1641,1408,19883,25763,34459,74.8,South,European/others,19883,Indian,1408
+3,Capital and Coast,2120,2827,1497,8508,14952,19249,77.7,South,European/others,8508,Indian,1497
+4,Counties Manukau,7317,22334,9184,17783,56618,67996,83.3,North,Pacific,22334,Maori,7317
+5,Hawkes Bay,3378,688,358,5117,9541,12730,74.9,North,European/others,5117,Indian,358
+6,Hutt,1815,1550,831,5104,9300,11834,78.6,North,European/others,5104,Indian,831
+7,Lakes,3034,328,268,2880,6510,8368,77.8,South,Maori,3034,Indian,268
+8,MidCentral,2212,615,354,6311,9492,12771,74.3,North,European/others,6311,Indian,354
+9,Nelson Marlborough,852,255,160,4694,5961,8526,69.9,South,European/others,4694,Indian,160
+10,Northland,5502,353,262,5119,11236,14779,76.0,North,Maori,5502,Indian,262
+11,South Canterbury,265,121,75,2465,2926,4143,70.6,South,European/others,2465,Indian,75
+12,Southern,1722,814,500,11952,14988,20686,72.5,South,European/others,11952,Indian,500
+13,Tairawhiti,1841,143,54,867,2905,3794,76.6,North,Maori,1841,Indian,54
+14,Taranaki,1677,161,241,4802,6881,9551,72.0,North,European/others,4802,Pacific,161
+15,Waikato,7659,1706,2123,14676,26164,33923,77.1,North,European/others,14676,Pacific,1706
+16,Wairarapa,562,94,80,1737,2473,3547,69.7,North,European/others,1737,Indian,80
+17,Waitemata,3751,6101,4366,23370,37588,48578,77.4,North,European/others,23370,Maori,3751
+18,West Coast,209,39,36,1285,1569,2104,74.6,South,European/others,1285,Indian,36
+19,Whanganui,1374,167,103,2242,3886,5222,74.4,North,European/others,2242,Indian,103
+20,Unknown/Unassigned,33,20,8,43,104,133,78.2,Unknown,European/others,43,Indian,8
