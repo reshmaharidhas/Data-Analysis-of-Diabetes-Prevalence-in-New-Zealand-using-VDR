@@ -15,6 +15,12 @@ VDR (Virtual Diabetes Register) is a tool used for tracking the number of people
 - Gestational Diabetes
 - Prediabetes
 
+## 🖼️Tableau Dashboard
+<img width="1365" height="727" alt="image" src="https://github.com/user-attachments/assets/5a8cc090-7b29-43e3-bbbe-ceffc034d13c" />
+
+### 💻Interactive dashboard
+View the interactive dashboard on <a href="https://public.tableau.com/app/profile/reshma.haridhas/viz/DiabetesVDR/Dashboard1">Tableau Public</a>
+
 ## 📓Kaggle Notebook
 https://www.kaggle.com/code/reshmaharidhas/diabetes-prevalence-in-new-zealand-eda
 
